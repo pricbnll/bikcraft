@@ -15,7 +15,7 @@ Este repositório é para minha prática e resolução dos exercícios proposto 
   
 ## Rodar o projeto
 
-Para rodar no browser pelo no terminal, dentro da pasta especifica do projeto: 
+Para rodar pelo no terminal, digite os comandos:
 
 ```
 npm create vite@latest
@@ -29,7 +29,7 @@ npm run dev
 ps. Se estiver no MAC coloque sudo antes do npm
 ```
 
-  - Exemplo do que mostra no terminal:
+Assim aparecerá a url que renderezirá seu projeto no browser:
 
 ```
 react-trip@0.0.0 dev vite
