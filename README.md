@@ -1,4 +1,4 @@
-*# MÓDULO2
+## MÓDULO2 semana 6
 
 # 🚦 Exercícios do Trello
 
