@@ -17,7 +17,17 @@ Este repositório é para minha prática e resolução dos exercícios proposto 
 
 Para rodar no browser pelo no terminal, dentro da pasta especifica do projeto: 
 
-`npm run dev`
+````
+npm create vite@latest
+    Escolha:
+    - React
+    - JavaScript
+
+npm install
+npm run dev
+
+ps. Se estiver no MAC coloque sudo antes do npm
+````
 
   - Exemplo do que mostra no terminal:
 
