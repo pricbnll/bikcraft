@@ -46,9 +46,9 @@ to expose ➜ press h + enter to show help
 
 ## 📄 Acompanhe as resoluções e dicas de aulas
 
-**FuturoDev - Trip** - [GitHub do curso] (https://github.com/FuturoDEV-Trip)
+**FuturoDev - Trip** - [GitHub do curso](https://github.com/FuturoDEV-Trip)
 
-**Repositório do professor** - [GitHub das aulas do Yan] (https://github.com/yanestevesufjf/react_trip)
+**Repositório do professor** - [GitHub das aulas do Yan](https://github.com/yanestevesufjf/react_trip)
 
 
 ## 🎁 Expressões de gratidão
