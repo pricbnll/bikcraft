@@ -17,7 +17,7 @@ Este repositório é para minha prática e resolução dos exercícios proposto 
 
 Para rodar no browser pelo no terminal, dentro da pasta especifica do projeto: 
 
-````
+```
 npm create vite@latest
     Escolha:
     - React
@@ -27,16 +27,16 @@ npm install
 npm run dev
 
 ps. Se estiver no MAC coloque sudo antes do npm
-````
+```
 
   - Exemplo do que mostra no terminal:
 
-```react-trip@0.0.0 dev vite
+```
+react-trip@0.0.0 dev vite
 
 Re-optimizing dependencies because vite config has changed
 
 VITE v5.3.2 ready in 168 ms
-
 ➜ Local: http://localhost:5173/ -----> este é a url para acessar o projeto na rede.
 ➜ Network: use --host 
 to expose ➜ press h + enter to show help
