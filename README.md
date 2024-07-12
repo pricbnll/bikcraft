@@ -42,6 +42,18 @@ VITE v5.3.2 ready in 168 ms
 to expose ➜ press h + enter to show help
 ```
 
+Se quiser trocar de porta:
+
+```
+// vite.config.js
+export default {
+  server: {
+    port: 8080  // definir a porta para 8080
+  }
+}
+```
+
+
 ## 🛠️ Construído com
 
 - Trello - aprendendo a criar e mover cards.
