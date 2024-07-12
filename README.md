@@ -9,7 +9,7 @@ Este repositório é para minha prática e resolução dos exercícios proposto 
   - React Inicial, Introdução ao React, Primeiros passos e Preparação do ambiente
   - Componentes funcionais e reutilizáveis, Sintaxe JSX (tipos de retorno, renderização de listas e condicionais)
   - Props e PropTypes para validação, Ciclo de Vida de Eventos, Fluxo de dados em um aplicativo React
-  - [Repositório do professor](https://github.com/yanestevesufjf/react_trip)
+
   - O exercício da semana 6 foi do site [Bikcraft](https://www.origamid.com/projetos/bikcraft/) que se encontra [neste repositório](https://github.com/pricbnll/bikcraft)
 
   
@@ -42,14 +42,13 @@ to expose ➜ press h + enter to show help
 
 ## 🧑🏻‍🏫 Professores
 
-* **Nicholas Macedo** - [GitHub](https://github.com/nicholasmacedoo)
 * **Yan Esteves** - [GitHub](https://github.com/yanestevesufjf)
 
 ## 📄 Acompanhe as resoluções e dicas de aulas
 
 **FuturoDev - Trip** - [GitHub do curso] (https://github.com/FuturoDEV-Trip)
 
-**FuturoDev - Trip/Nature** - [GitHub das aulas do Yan] (https://github.com/yanestevesufjf/nature_trip_modulo2.git)
+**Repositório do professor** - [GitHub das aulas do Yan] (https://github.com/yanestevesufjf/react_trip)
 
 
 ## 🎁 Expressões de gratidão
